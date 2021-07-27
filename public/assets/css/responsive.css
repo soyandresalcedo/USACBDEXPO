@@ -289,6 +289,7 @@
     padding: 5px 7px;
     font-size: 13px;
   }
+ 
   .container-form .terms {
     background-color: white;
     padding: 25px;
@@ -303,8 +304,13 @@
   }
   .row2{
     display: flex;
-    contain: content;
-
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-sizing: none;
+    height: 250px;
   }
   .row3 { 
 
