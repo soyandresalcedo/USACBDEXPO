@@ -164,8 +164,9 @@
     justify-content: center;
   }
   .awardimg{
-    width: 350px;
+    width: 322px;
     height: auto;
+    margin: 2px;
     
   }
   .section-sub {
@@ -294,9 +295,17 @@
     background-color: white;
     padding: 25px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-    height: 500px;
+    height: 550px;
     border-radius: 15px;
     
+  }
+  .check__term-icon {
+    width: 20px;
+    height: 20px;
+  } 
+  .check__term--text p{
+    font-size: 11px;
+    width: 200px;
   }
   .footer-area{
     display: flex;
