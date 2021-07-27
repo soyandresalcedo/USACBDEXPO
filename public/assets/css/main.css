@@ -1587,7 +1587,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   background-color: white;
   padding: 56px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-  height: 500px;
+  height: 550x;
   border-radius: 15px;
   
 }
@@ -1601,6 +1601,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .check__term {
   display: flex;
   color: #000;
+  margin-bottom: 5px;
   
 }
 .check__term--text{
@@ -1724,7 +1725,9 @@ a.back-to-top:hover, a.back-to-top:focus {
   left: 0%;
   padding: 40px 15px;
   margin-left: -15px;
+  height: 900px;
   z-index: 99;
+
 }
 
 .container-form .form-wrapper {
@@ -2020,7 +2023,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .awardimg{
   width: 500px;
   height: auto;
-  margin: 20px;
+  
 }
 
 .countdown-timer .heading-count {
