@@ -304,13 +304,13 @@
   }
   .row2{
     display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    height: 250px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
-    padding: 20px;
-    margin-bottom: 20px;
-    box-sizing: none;
-    height: 250px;
+    scroll-snap-type: x;
+   
   }
   .row3 { 
 
