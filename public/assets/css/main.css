@@ -1808,6 +1808,13 @@ a.back-to-top:hover, a.back-to-top:focus {
   display: flex;
   background: #222222;
 }
+.row3{
+  display:flex;
+  justify-content:center;
+  flex-wrap: nowrap;
+  margin: 0px 10px;
+  
+}
 
 .footer-area h3 {
   font-size: 20px;
