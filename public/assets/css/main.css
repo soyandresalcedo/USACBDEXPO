@@ -834,7 +834,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
   .navbar-brand {
     position: absolute;
-    padding: 15px 15px;
+    padding: 5px;
     top: 0;
   }
   .navbar-brand img {
@@ -933,11 +933,12 @@ a.back-to-top:hover, a.back-to-top:focus {
   justify-content: center;
 }
 .counter-section2 {
+  display: flex;
+  justify-content: center;
   background: rgba(34, 34, 34, 0.4);
   overflow: hidden;
   position: relative;
-  display: flex;
-  justify-content: center;
+  height: 350px;
 }
 
 .counter-section .counter {
@@ -1813,7 +1814,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   justify-content:center;
   flex-wrap: nowrap;
   margin: 0px 10px;
-  
+
 }
 
 .footer-area h3 {
