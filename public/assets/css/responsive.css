@@ -295,6 +295,11 @@
     /* margin: 2px; */
     
   }
+  .categories__item, .categories__item img{
+
+    width: 125px;
+
+  }
   
   .terms__section{
     height: 800px;
