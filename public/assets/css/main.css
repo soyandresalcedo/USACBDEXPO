@@ -300,8 +300,12 @@ a.back-to-top i {
   height: 40px;
   line-height: 40px;
   color: #fff;
-  background: rgba(161, 206, 110, 0.3 );
-  border-radius: 0px;
+  /* background: rgba(161, 206, 110, 0.3 ); */
+  background-image: url(../img/icons/flower.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
   text-align: center;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
