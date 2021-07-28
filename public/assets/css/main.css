@@ -1716,20 +1716,13 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 /* Contact Forme */
-#google-map-area {
-  position: relative;
-}
 
-#google-map-area .container-fluid {
-  padding-left: 0;
-  padding-right: 0;
-}
 
 .container-form {
   left: 0%;
   padding: 40px 15px;
   margin-left: -15px;
-  height: 900px;
+ 
   z-index: 99;
 
 }
@@ -1738,8 +1731,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   background-color: white;
   padding: 56px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-  height: 500px;
-  /* width: 50%; */
+  height: 400px;
+  border-radius: 25px;
 
 }
 
