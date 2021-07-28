@@ -347,4 +347,26 @@
     margin: 0px 10px;
     
   }
+  
+  .row{
+    display: block;
+
+  }
+  
+  .nomination{
+    
+    position: relative;
+    
+    margin-bottom: 20px;
+    top: none;
+    left: calc(50% -190px);
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.4rem;
+    padding: 7px;
+    background-color: rgba(161, 206, 110, 0.9 );
+    border-radius: 8px;
+     
+   
+  }
 }
