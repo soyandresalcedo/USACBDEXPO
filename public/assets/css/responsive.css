@@ -239,6 +239,7 @@
   }
   .container-form .form-wrapper {
     padding: 20px;
+    height: 350px;
   }
   .contact-item {
     margin-bottom: 40px;
@@ -305,7 +306,7 @@
     height: 800px;
   }
   .terms__section2{
-    height: 1500px;
+    height: 1720px;
 
   }
  
@@ -351,6 +352,12 @@
   .row{
     display: block;
 
+  }
+  button, select{
+
+    width: 248px;
+    height: 41px;
+    margin-bottom: 10px;
   }
   
   .nomination{
