@@ -1144,6 +1144,21 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Contact Forme */
 
+.nomination{
+  position: absolute;
+  width: 170px;
+  height: 31px;
+  top: calc(10% - 9px);
+  left: calc(50% - 90px);
+  font-size: 1.2rem;
+  font-weight: bold;
+  line-height: 1.4rem;
+  padding: 7px;
+  background-color: rgba(161, 206, 110, 0.9 );
+  border-radius: 8px;
+  
+ 
+}
 
 .container-form {
   left: 0%;
